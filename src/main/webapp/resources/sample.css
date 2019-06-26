@@ -1,0 +1,10 @@
+h1 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24px; font-weight:800; color:#585858;  margin-left: 20px;}
+h2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight:800; color:#585858;}
+h3 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight:800; color:#ff0000; margin-left: 20px;}
+h6 {border-top: 3px dotted #A4A4A4; margin-top: 20px;}
+body { margin: 0; background-color: #CEF6F5 ;}
+a img{border: none;}
+header, footer, aside, article section {display: block;}
+section#banner {display: table; background-color: #D8CEF6; width: 100%; height: 100px;}
+section#pitches {Verdana, Arial, Helvetica, sans-serif; float:left; width:90%; margin-left: 10%;}
+}

@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(90deg, mintcream, snow);
+}
+div.juu{
+    background: darkslategray;
+    text-align: center;
+    font-family: "Calisto MT";
+    color: whitesmoke;
+    font-size: xx-large;
+    height: 80px;
+    padding-top: 20px;
+}
+.kushoto{
+    float: left;
+    background: lightslategrey;
+    width: 20%;
+    height: 1000px;
+}
+.main{
+
+}
+.vyandani{
+    width: 100%;
+    font-family: "Calisto MT";
+    background: linear-gradient(0deg, snow, lightslategrey);
+    font-size: larger;
+    height: 30px;
+}
+.space{
+    height: 200px;
+}
+.label{
+    float: left;
+    width: 120px;
+    font-style: oblique;
+    font-size: larger;
+}
+input{
+    height: 20px;
+    padding: 2px;
+    border-radius: 3px;
+}
+.login{
+    width: 300px;
+    height: 31px;
+    padding: 4px;
+}
+button{
+    width: 100%;
+    height: 31px;
+    padding: 4px;
+}
+h3{
+    font-family: "Calisto MT";
+
+}
+a{
+    text-decoration: none;
+    text-underline: none;
+    color: darkslategray;
+}
